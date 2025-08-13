@@ -84,3 +84,4 @@ globalprotect show --status
 ```
 
 You should see that the service is active and the UI is running.
+# globalprotect-helper
